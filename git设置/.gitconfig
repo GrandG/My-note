@@ -1,0 +1,8 @@
+[user]
+	name = Wayne
+	email = 616311401@qq.com
+
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
+[https "https://github.com"]
+	proxy = socks5://127.0.0.1:1080
